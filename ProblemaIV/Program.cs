@@ -15,7 +15,7 @@ namespace ProblemaIV
             public static void selectionSort(T[] array)
             {
                 
-                T = array.Length;
+                T = array.Length; 
                 for (int i = 0; i < n-1; i++)
                 {
                     int min = array[i];
